@@ -4,7 +4,7 @@
   "nodes": [
     {
       "id": "5487645678964387962",
-      "concept": {
+      "classifier": {
         "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
         "version": "0",
         "key": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRhLzU0ODc2NDU2Nzg5NjQyNzQwMzQ"
@@ -19,7 +19,7 @@
           "value": "NoDiscounts"
         }
       ],
-      "children": [
+      "containments": [
         {
           "containment": {
             "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
@@ -34,11 +34,12 @@
         }
       ],
       "references": [],
+      "annotations": [],
       "parent": null
     },
     {
       "id": "5487645678964387963",
-      "concept": {
+      "classifier": {
         "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
         "version": "0",
         "key": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRhLzU0ODc2NDU2Nzg5NjQyNzQwMzY"
@@ -53,7 +54,7 @@
           "value": "PAPER01"
         }
       ],
-      "children": [
+      "containments": [
         {
           "containment": {
             "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
@@ -66,11 +67,12 @@
         }
       ],
       "references": [],
+      "annotations": [],
       "parent": "5487645678964387962"
     },
     {
       "id": "5487645678964387964",
-      "concept": {
+      "classifier": {
         "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
         "version": "0",
         "key": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRhLzU0ODc2NDU2Nzg5NjQyNzQwMzk"
@@ -101,13 +103,14 @@
           "value": "4KC2aIjRRdU/USD"
         }
       ],
-      "children": [],
+      "containments": [],
       "references": [],
+      "annotations": [],
       "parent": "5487645678964387963"
     },
     {
       "id": "2994208855780186060",
-      "concept": {
+      "classifier": {
         "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
         "version": "0",
         "key": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRhLzU0ODc2NDU2Nzg5NjQyNzQwMzY"
@@ -122,7 +125,7 @@
           "value": "PAPER02"
         }
       ],
-      "children": [
+      "containments": [
         {
           "containment": {
             "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
@@ -135,11 +138,12 @@
         }
       ],
       "references": [],
+      "annotations": [],
       "parent": "5487645678964387962"
     },
     {
       "id": "2994208855780186061",
-      "concept": {
+      "classifier": {
         "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
         "version": "0",
         "key": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRhLzU0ODc2NDU2Nzg5NjQyNzQwMzk"
@@ -170,13 +174,14 @@
           "value": "4KC2aIjRRdU/USD"
         }
       ],
-      "children": [],
+      "containments": [],
       "references": [],
+      "annotations": [],
       "parent": "2994208855780186060"
     },
     {
       "id": "2994208855780186066",
-      "concept": {
+      "classifier": {
         "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
         "version": "0",
         "key": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRhLzU0ODc2NDU2Nzg5NjQyNzQwMzY"
@@ -191,7 +196,7 @@
           "value": "STAPLER_BASE"
         }
       ],
-      "children": [
+      "containments": [
         {
           "containment": {
             "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
@@ -204,11 +209,12 @@
         }
       ],
       "references": [],
+      "annotations": [],
       "parent": "5487645678964387962"
     },
     {
       "id": "2994208855780186067",
-      "concept": {
+      "classifier": {
         "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
         "version": "0",
         "key": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRhLzU0ODc2NDU2Nzg5NjQyNzQwMzk"
@@ -239,13 +245,14 @@
           "value": "4KC2aIjRRdU/USD"
         }
       ],
-      "children": [],
+      "containments": [],
       "references": [],
+      "annotations": [],
       "parent": "2994208855780186066"
     },
     {
       "id": "5487645678964387965",
-      "concept": {
+      "classifier": {
         "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
         "version": "0",
         "key": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRhLzU0ODc2NDU2Nzg5NjQyNzQwMzQ"
@@ -260,7 +267,7 @@
           "value": "SummerSeason"
         }
       ],
-      "children": [
+      "containments": [
         {
           "containment": {
             "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
@@ -287,11 +294,12 @@
           ]
         }
       ],
+      "annotations": [],
       "parent": null
     },
     {
       "id": "5487645678964492230",
-      "concept": {
+      "classifier": {
         "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
         "version": "0",
         "key": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRhLzU0ODc2NDU2Nzg5NjQyNzQwNDk"
@@ -306,7 +314,7 @@
           "value": "summer discount"
         }
       ],
-      "children": [
+      "containments": [
         {
           "containment": {
             "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
@@ -329,17 +337,18 @@
         }
       ],
       "references": [],
+      "annotations": [],
       "parent": "5487645678964387965"
     },
     {
       "id": "5487645678964628236",
-      "concept": {
+      "classifier": {
         "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
         "version": "0",
         "key": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRhLzU0ODc2NDU2Nzg5NjQ1NDgzOTg"
       },
       "properties": [],
-      "children": [
+      "containments": [
         {
           "containment": {
             "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
@@ -352,11 +361,12 @@
         }
       ],
       "references": [],
+      "annotations": [],
       "parent": "5487645678964492230"
     },
     {
       "id": "5487645678964628240",
-      "concept": {
+      "classifier": {
         "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
         "version": "0",
         "key": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRhLzU0ODc2NDU2Nzg5NjQ0MTcxMjQ"
@@ -371,19 +381,20 @@
           "value": "5"
         }
       ],
-      "children": [],
+      "containments": [],
       "references": [],
+      "annotations": [],
       "parent": "5487645678964628236"
     },
     {
       "id": "5487645678964548385",
-      "concept": {
+      "classifier": {
         "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
         "version": "0",
         "key": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRhLzU0ODc2NDU2Nzg5NjQ0MTcwNjY"
       },
       "properties": [],
-      "children": [
+      "containments": [
         {
           "containment": {
             "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
@@ -406,23 +417,25 @@
         }
       ],
       "references": [],
+      "annotations": [],
       "parent": "5487645678964492230"
     },
     {
       "id": "5487645678964548391",
-      "concept": {
+      "classifier": {
         "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
         "version": "0",
         "key": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRhLzU0ODc2NDU2Nzg5NjQ0MTcwNTQ"
       },
       "properties": [],
-      "children": [],
+      "containments": [],
       "references": [],
+      "annotations": [],
       "parent": "5487645678964548385"
     },
     {
       "id": "5487645678964548396",
-      "concept": {
+      "classifier": {
         "language": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRh",
         "version": "0",
         "key": "ZGVkMzlmMGEtNDI5MC00ODlhLTg0ZmMtMmRhNjA4ZDExOWRhLzU0ODc2NDU2Nzg5NjQ0MTcxMjQ"
@@ -437,8 +450,9 @@
           "value": "10"
         }
       ],
-      "children": [],
+      "containments": [],
       "references": [],
+      "annotations": [],
       "parent": "5487645678964548385"
     }
   ]
